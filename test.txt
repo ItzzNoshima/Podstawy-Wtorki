@@ -1,0 +1,1 @@
+Teraz wczytuje ze zmiennej jak to widzisz to jestes superI teraz jest mieszane ze zmiennej i z komendy
